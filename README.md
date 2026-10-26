@@ -10,11 +10,11 @@ A Chrome and Firefox extension that removes distracting recommendations from You
 
 YouShield replaces YouTube's homepage with a minimal interface containing a search bar and quick access to subscriptions. The recommendation feed stays hidden, allowing users to search for what they want without getting distracted.
 
-![YouTube homepage before and after YouShield](before_after_homepage.png)
+![YouTube homepage before and after YouShield](res/before_after_homepage.png)
 
 It also hides sidebar recommendations, end-of-video suggestions, autoplay prompts and Shorts shelves. Shorts URLs are redirected to standard video pages, avoiding the vertical scrolling feed.
 
-![Sidebar recommendations removed](before_after_side_removal.png)
+![Sidebar recommendations removed](res/before_after_side_removal.png)
 
 ### Consume Mode
 
@@ -22,7 +22,7 @@ For times when you want to browse freely, **Consume Mode** temporarily restores 
 
 Users set their allowance before entering the mode. The extension tracks video playback time, and once the allowance is exhausted, playback stops and the user returns to the distraction-free homepage.
 
-![Consume Mode time limit dialog](set_consume_time.png)
+![Consume Mode time limit dialog](res/set_consume_time.png)
 
 YouShield also removes notification counts from browser tab titles to reduce distractions.
 
