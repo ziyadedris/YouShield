@@ -1,6 +1,6 @@
 # YouShield
 
-A Chrome and Firefox extension that removes distracting recommendations from YouTube — hiding the homepage feed, suggested videos and Shorts — so you can use the platform without it using you.
+A Chrome and Firefox extension that removes distracting recommendations from YouTube - hiding the homepage feed, suggested videos and Shorts - so you can use the platform without it using you.
 
 **[Chrome Web Store](https://chromewebstore.google.com/detail/youshield-remove-youtube/iohilpdcenclcjbjbebbjgpiimobkpje)** · **[Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/youshield-remove-youtube-short/)**
 
